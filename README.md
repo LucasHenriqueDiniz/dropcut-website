@@ -2,6 +2,10 @@
 
 Landing page for DropCut, a local Windows video compressor and trimmer.
 
+<p align="center">
+  <img src="public/website.png" alt="DropCut website preview" width="100%" />
+</p>
+
 ## Live Site
 
 https://dropcut.pages.dev
